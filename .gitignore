@@ -1,0 +1,14 @@
+# Entorno virtual
+canaco_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de base de datos local / IDE
+*.sqlite3
+.vscode/
+.idea/
