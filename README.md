@@ -8,7 +8,3 @@ Proyecto web desarrollado con el framework Django para la gestión y portal de n
 * MySQL / XAMPP
 * Bootstrap 5 / HTML5 / CSS3
 
-## Instalación y configuración
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/TU-USUARIO/cms-canaco.git](https://github.com/TU-USUARIO/cms-canaco.git)
